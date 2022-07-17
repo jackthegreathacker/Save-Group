@@ -10,7 +10,7 @@ Press Below Button to Deploy as Lazy Deploy:
 
 Using Heroku CLI
 ```shell
-git clone https://github.com/AbirHasan2005/Save-Group
+git clone https://github.com/jackthegreathacker/Save-Group
 cd Save-Group
 ```
 Now setup Your Configs in `config.py` File using `nano` or something else.
